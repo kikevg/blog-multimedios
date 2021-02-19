@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+:root {
+    --blue-1-color: #5398FF;
+    --blue-2-color: #ECF4FF;
+    --bg-1-color: #f5faff;
+}
+
+body {
+    background-color: var(--bg-1-color);
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+}
+
+/* Texts and backgrounds */
+
+.text-primary {
+    color: var(--blue-1-color) !important;
+}
+
+/* Badges */
+
+.badge {
+    padding: 10px 20px;
+}
+
+.badge.bg-primary {
+    background-color: var(--blue-2-color) !important;
+    color: var(--blue-1-color) !important;
+}
+
+/* Tags */
+
+#tags li {
+    display: block !important;
+}
+
+#tags button.btn-link {
+    color: var(--blue-1-color) !important;
+    display: block !important;
+}
+
+#tags button.btn-link:hover {
+    background-color: var(--blue-2-color) !important;
+}
+
+/* news content */
+
+#news-content p {
+    font-size: 18px;
+}
+
+#news-content pre {
+    background-color: #0B0F26;
+    display: block;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    padding: 10px 30px;
+}
