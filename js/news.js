@@ -28,7 +28,7 @@ let news = [
             <h3><strong>Enero</strong></h3>
 
             <p>
-                <img src="../img/Desktop-1.png" alt="img" width="600" />
+                <img src="./img/Desktop-1.png" alt="img" width="600" />
             </p>
 
             <p>P&uacute;blico objetivo: personas de cualquier edad amantes de la celebraci&oacute;n de a&ntilde;o nuevo. Se utiliz&oacute; esta imagen ya que hace representaci&oacute;n a la alegr&iacute;a y fervor que representa el comienzo de un nuevo a&ntilde;o.&nbsp;</p>
