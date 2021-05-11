@@ -20,6 +20,11 @@ let songs = [
         artist: "Los miticos",
         song: "./audios/databases.mp3",
     },
+    {
+        name: "Frameworks del frontend",
+        artist: "Los miticos",
+        song: "./audios/frontend.mp3",
+    },
 ];
 
 let currentSong = 0;
